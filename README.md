@@ -39,23 +39,25 @@ Comment Lancer l'Application
 Clonez ce dépôt :
 bash
 Copy code
-git clone https://github.com/votre-nom-utilisateur/systeme-gestion-employes.git
+git clone
+            https://github.com/votre-nom-utilisateur/systeme-gestion-employes.git
+
 Accédez au répertoire du projet :
 bash
 Copy code
-cd systeme-gestion-employes
+            cd systeme-gestion-employes
 Compilez le code :
 bash
 Copy code
-g++ -o gestion_employes main.cpp
+            g++ -o gestion_employes main.cpp
 Exécutez l'application :
 bash
 Copy code
-./gestion_employes
+            ./gestion_employes
 Structure des Fichiers
 main.cpp : Contient la logique principale de l'application.
 employee_data.txt : Fichier utilisé pour stocker les informations des employés.
 Améliorations Futures
-Ajouter une interface graphique pour une meilleure expérience utilisateur.
-Implémenter un chiffrement des données sensibles.
-Intégrer une base de données pour une meilleure scalabilité.
+.Ajouter une interface graphique pour une meilleure expérience utilisateur.
+.Implémenter un chiffrement des données sensibles.
+.Intégrer une base de données pour une meilleure scalabilité.
