@@ -109,12 +109,6 @@ int main() {
 
 ---
 
-## 📜 Licence
-
-Ce projet est sous licence [MIT](LICENSE). Vous êtes libre de l'utiliser, le modifier et le distribuer.
-
----
-
 ## 💡 Auteurs et Crédits
 
 Ce projet a été conçu par **Samah Naji** et repose sur l'utilisation de C++ pour la gestion des données. 
