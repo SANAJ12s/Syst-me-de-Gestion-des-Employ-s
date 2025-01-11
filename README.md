@@ -117,7 +117,7 @@ Ce projet est sous licence [MIT](LICENSE). Vous êtes libre de l'utiliser, le mo
 
 ## 💡 Auteurs et Crédits
 
-Ce projet a été conçu par **Samah Naji** et repose sur l'utilisation de C++ pour la gestion des données. Merci à toutes les ressources open-source utilisées.
+Ce projet a été conçu par **Samah Naji** et repose sur l'utilisation de C++ pour la gestion des données. 
 
 ---
 
