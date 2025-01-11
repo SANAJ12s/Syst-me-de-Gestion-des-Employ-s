@@ -121,5 +121,3 @@ Ce projet a été conçu par **Samah Naji** et repose sur l'utilisation de C++ p
 
 ---
 
-Avec ce README, votre projet sera clair, attrayant et facile à utiliser pour les contributeurs ! 🎉
-
